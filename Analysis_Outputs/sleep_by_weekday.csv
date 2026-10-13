@@ -1,0 +1,8 @@
+DayOfWeek,SleepLogs,Participants,AverageHours,MedianHours,StdHours
+Monday,114,18,7.09,7.44,1.91
+Tuesday,128,20,6.76,7.15,1.91
+Wednesday,134,19,6.83,7.48,2.1
+Thursday,122,19,6.93,7.32,1.81
+Friday,112,20,6.91,7.2,2.03
+Saturday,139,20,6.68,6.97,2.44
+Sunday,126,21,7.36,7.92,2.49

@@ -1,0 +1,5 @@
+ActivityGroup,Participants,AverageSteps,MedianSteps,MedianRecordedDays,MinRecordedDays,MaxRecordedDays,Percentage
+"Under 5,000",11,2897.62,2944.5,40.0,8,62,31.43
+"5,000-7,499",9,6418.93,6616.93,42.0,30,49,25.71
+"7,500-9,999",8,8657.36,8623.35,41.5,32,45,22.86
+"10,000+",7,12694.27,11732.97,42.0,37,49,20.0

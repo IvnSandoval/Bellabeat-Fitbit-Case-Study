@@ -1,0 +1,5 @@
+ActivityGroup,Participants,AvgVeryActiveMinutes,AvgFairlyActiveMinutes,AvgLightlyActiveMinutes,AvgSedentaryMinutes,AvgDailyCalories
+"Under 5,000",11,3.48,12.23,117.15,1171.23,2122.47
+"5,000-7,499",9,7.28,7.85,226.68,1043.57,1959.42
+"7,500-9,999",8,31.64,20.82,191.34,813.16,2739.38
+"10,000+",7,44.18,21.91,230.4,950.38,2436.13
